@@ -32,7 +32,7 @@ var name = "musenboy";
 function accessGlobalVariable() {
 	console.log(name);//musenboy
 }
-accessGlobalVariable()；
+accessGlobalVariable();
 ```
 
 内部函数可以访问外部的变量，外部函数不可以访问内部函数的变量。但是如果在内部函数中没有定义var，该变量就会声明为全局变量了。
