@@ -1,6 +1,4 @@
-title: 关于使用JavaScript闭包
-tags:
-    - JavaScript
+# 关于使用JavaScript闭包
 
 ---
 
